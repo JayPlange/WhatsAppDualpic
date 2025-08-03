@@ -6,6 +6,9 @@ WhatsApp DualPic is a Chrome extension that redefines how you express yourself o
 
 ---
 
+## Live Demo
+Check out the working demo: [Twitter Demo](https://x.com/JusticePlange/status/1917779218467021129)
+
 ## Features
 
 - **Dual Profile Picture**: Upload two profile pictures and assign visibility settings for each.
